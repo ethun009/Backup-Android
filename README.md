@@ -60,7 +60,7 @@ When you are ready to compile the application into a standalone `.exe` installer
    ```bash
    npm run package
    ```
-5. You will find your finished `SyncVault Setup 0.0.0.exe` in the generated `dist_electron` or `dist` wrapper folder!
+5. You will find your finished `Link Backup Setup 0.0.0.exe` in the generated `dist_electron` or `dist` wrapper folder!
 
 ## Acknowledgements 
 Built utilizing `Vite`, `React`, `Electron`, and `@devicefarmer/adbkit`.
