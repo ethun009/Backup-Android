@@ -43,12 +43,14 @@ When you are ready to compile the application into a standalone `.exe` installer
    ```
 2. In your `package.json`, add the following build configuration:
    ```json
-   "build": {
-     "appId": "com.syncvault.backup",
-     "win": {
-       "target": "nsis"
-     }
-   }
+    "build": {
+    "appId": "com.linkbackup.app",
+    "productName": "Link Backup",
+    "icon": "public/logo.ico",
+    "asar": true,
+    "directories": {
+      "output": "release"
+    },
    ```
 3. Add a builder script inside your `package.json` scripts:
    ```json
