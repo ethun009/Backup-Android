@@ -1,6 +1,6 @@
-# SyncVault - Premium Android USB Backup App
+# Link Backup - Premium Android USB Backup App
 
-SyncVault is a high-performance desktop application for Windows that intelligently connects to your Android device via USB, quickly discovers thousands of media files, and securely streams them to your computer's hard drive—avoiding the latency and instability of standard Android MTP transfers.
+Link Backup is a high-performance desktop application for Windows that intelligently connects to your Android device via USB, quickly discovers thousands of media files, and securely streams them to your computer's hard drive—avoiding the latency and instability of standard Android MTP transfers.
 
 ## Features Built
 - **Direct ADB Protocol:** Pulls files significantly faster than standard Windows copy-paste.
